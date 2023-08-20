@@ -1,3 +1,3 @@
 ## Website 
 
-[Website Details](https://campus-crib.netlify.app/)
+[Website Details: campus-crib.netlify.app/](https://campus-crib.netlify.app/)
