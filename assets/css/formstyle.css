@@ -1,0 +1,19 @@
+.filter-options {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .filter-options label,
+  .filter-options select,
+  .filter-options input {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    max-width: calc(20% - 10px);
+  }
+  
+  .filter-options button {
+    margin-left: auto;
+  }
+  
